@@ -12,24 +12,12 @@ I’m a passionate developer exploring both **Software Development and Data Anal
 I enjoy building projects, solving problems, and continuously learning new technologies.
 
 - Strong understanding of **Python, C++, SQL & DBMS**
-- Interested in **Full Stack Development & Backend Systems**
 - Learning **Data Analytics and Data-Driven Applications**
 - Regularly practicing problem solving and coding challenges
 - Curious about technology, development workflows, and system design
 
 ---
 
-## 🛠 Tech Stack
-
-### 🌐 Full Stack Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,django,express,nodejs,react,docker,github,vscode,postman" />
-</p>
-
-### 📊 Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-</p>
 
 - Libraries: **NumPy, Pandas**
 - Database: **SQL, DBMS Concepts**
