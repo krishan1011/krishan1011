@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Krishan Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer 💻 | Aspiring Data Analyst 📊
+Aspiring Data Analyst 📊
 </h3>
 
 ---
