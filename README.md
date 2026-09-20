@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Krishan Kumar</h1>
 
 <h3 align="center">
-B.Tech CSE Student @ IIT Jodhpur | Exploring Data Analytics
+Student @ IIT Jodhpur | Exploring Data Analytics
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- B.Tech Computer Science & Engineering student at IIT Jodhpur
+- Student at IIT Jodhpur
 - Learning Python, C++, SQL & DBMS
 - Exploring data analytics and machine learning through hands-on projects
 - Enjoy building small end-to-end projects to apply what I'm learning
