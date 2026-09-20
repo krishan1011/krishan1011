@@ -1,34 +1,28 @@
 <h1 align="center">Hey there 👋, I'm Krishan Kumar</h1>
 
 <h3 align="center">
-Student @ IIT Jodhpur | Exploring Data Analytics
+Aspiring Data Analyst 📊
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Student at IIT Jodhpur
-- Learning Python, C++, SQL & DBMS
-- Exploring data analytics and machine learning through hands-on projects
-- Enjoy building small end-to-end projects to apply what I'm learning
+I'm exploring both **Software Development and Data Analytics**.
+I enjoy building projects, solving problems, and continuously learning new technologies.
+
+- Strong understanding of **Python, C++, SQL & DBMS**
+- Learning **Data Analytics and Data-Driven Applications**
+- Regularly practicing problem solving and coding challenges
+- Curious about technology, development workflows, and system design
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
 **Languages:** Python, C++, SQL
 **Libraries:** NumPy, Pandas
-**Concepts:** DBMS, Data Analytics
-
----
-
-## 📌 Projects
-
-- [**Cricket-celebrity-image-classification**](https://github.com/krishan1011/Cricket-celebritiy-image-classification) — Image classifier for Indian cricket players
-- [**RAG-Arxiv**](https://github.com/krishan1011/RAG-Arxiv) — RAG-based project over Arxiv papers
-- [**house-cost-prediction**](https://github.com/krishan1011/house-cost-prediction) — House price prediction using ML
-- [**IML_project**](https://github.com/krishan1011/IML_project) — Introduction to Machine Learning coursework project
+**Concepts:** SQL, DBMS Concepts
 
 ---
 
