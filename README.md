@@ -1,100 +1,73 @@
-<h1 align="center">Hey there 👋, I'm Krishan Kumar</h1>
+<h1 align="center">Hi, I'm Krishan Kumar</h1>
 
-<h3 align="center">
-Aspiring Data Scientist | Machine Learning & AI Enthusiast 🤖
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **BS Chemistry student at IIT Jodhpur** building my skills in **Data Science, Machine Learning, Deep Learning, NLP, and Generative AI**.
-
-I enjoy turning data into useful insights, building machine learning models, and developing practical AI-based applications.
-
-* 📊 Strong foundation in **Statistics, Data Analysis & SQL**
-* 🤖 Experience with **Machine Learning & Deep Learning**
-* 🧠 Exploring **NLP, Transformers, RAG & Generative AI**
-* 🐍 Comfortable with **Python, SQL & C++**
-* 💻 Regularly practicing **DSA and problem solving**
-* 🚀 Building practical projects to strengthen my Data Science & AI skills
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+<p align="center">
+Data Science & Machine Learning | IIT Jodhpur
 </p>
 
-### Data Science & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishan1011"><img src="https://img.shields.io/badge/LinkedIn-krishan1011-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:b23cy1011@iitj.ac.in"><img src="https://img.shields.io/badge/Email-b23cy1011%40iitj.ac.in-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-**Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+---
 
-### AI & NLP
+## About
 
-* Machine Learning
-* Deep Learning
-* NLP
-* Transformers
-* RAG
-* Generative AI
-* LLM Applications
+I'm a student at **IIT Jodhpur** who builds end-to-end data science and machine learning projects: from raw data and careful evaluation to a working app.
 
-### Databases & Analytics
-
-* SQL
-* PostgreSQL
-* DBMS
-* Power BI
+I care about **honest evaluation** (proper splits, baselines, confidence intervals) and about shipping models behind an API or dashboard that someone can actually use.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-Some of the areas I work on:
+### [CineMatch: Hybrid Movie Recommender](https://github.com/krishan1011/CineMatch_Recommendation_System)
+Content-based, collaborative (Item/User-kNN), matrix factorization and hybrid models on MovieLens (610 users, 100K+ ratings), benchmarked against popularity baselines with a per-user temporal split.
+- Hybrid improves NDCG@10 by **59%** over count popularity; best ranking model is implicit Item-kNN (NDCG@10 0.1231)
+- Cold-start analysis, bootstrap confidence intervals, pytest suite, Flask API, Docker, Power BI dashboard
+- `Python` `scikit-learn` `Numba` `Flask` `Docker` `Power BI`
 
-* 🏠 **House Cost Prediction** — Machine Learning regression project
-* 🏏 **Cricket Celebrity Image Classification** — Computer Vision + SVM
-* 🥔 **Potato Disease Classification** — Deep Learning image classification
-* 📉 **Customer Churn Prediction** — Machine Learning classification
-* 🎬 **Netflix Data Analysis** — SQL-based data analysis
-* 🔎 **RAG-Arxiv** — Retrieval-Augmented Generation application
-* 🤖 **Support Intel** — AI-powered customer support application
+### [Customer Support Intelligence System](https://github.com/krishan1011/support-intel)
+End-to-end NLP pipeline on 25K+ support tickets: 27-class intent classification (TF-IDF + Linear SVM), sentiment, entity extraction, priority scoring, similar-ticket retrieval and suggested replies in a Streamlit dashboard.
+- `Python` `spaCy` `NLTK` `scikit-learn` `Streamlit`
+
+### [RAG-Arxiv: LLM Research Assistant](https://github.com/krishan1011/RAG-Arxiv)
+Retrieval-Augmented Generation system for ArXiv papers: ChromaDB vector store, SentenceTransformer embeddings, cross-encoder reranking, and a two-step LLM agent with session memory, served through FastAPI.
+- `Python` `FastAPI` `ChromaDB` `LLM Agents`
+
+### [Potato Disease Classification](https://github.com/krishan1011/potato-disease-classification)
+CNN (TensorFlow/Keras) classifying potato leaf disease, packaged with a REST API, React web app, React Native client, TensorFlow Lite models and a Google Cloud deployment setup.
+- `TensorFlow` `React` `TensorFlow Lite` `GCP`
+
+**More:** [Cricket Celebrity Image Classification](https://github.com/krishan1011/Cricket-celebritiy-image-classification) (OpenCV + SVM) | [House Cost Prediction](https://github.com/krishan1011/house-cost-prediction) | [Netflix SQL Analysis](https://github.com/krishan1011/NETFLIX_SQL_Project) | [IML Project](https://github.com/krishan1011/IML_project)
 
 ---
 
-## 📈 What I'm Currently Working On
+## Tech Stack
 
-* Advanced **NLP and Transformer models**
-* **RAG and LLM applications**
-* **Agentic AI**
-* Data Science projects
-* DSA and problem solving
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgresql,mysql,git,github,docker" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,fastapi,flask,react,gcp" />
+</p>
+
+**Data & ML:** Pandas, NumPy, scikit-learn, TensorFlow/Keras, spaCy, NLTK, Matplotlib, Seaborn
+**GenAI:** RAG, LLM agents, ChromaDB, SentenceTransformers
+**Analytics:** SQL, PostgreSQL, Power BI, Streamlit
 
 ---
 
-## 📊 GitHub Activity
+## Currently
+
+- Deploying and polishing my recommender and NLP projects
+- Going deeper on evaluation, NLP and LLM applications
+- Practicing DSA and SQL
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:b23cy1011@iitj.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://instagram.com/krishan.k.s">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
 </p>
